@@ -1,0 +1,10 @@
+public class firstbank extends Account{
+
+    public static void main(String[] args) {
+
+        Account len = new Account("Lening Rodas", "A00001");
+        len.MainMenu();
+
+    }
+
+}
